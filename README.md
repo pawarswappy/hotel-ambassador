@@ -1,0 +1,2 @@
+# hotel-ambassador
+hotel
